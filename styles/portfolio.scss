@@ -1,0 +1,14 @@
+@import "home";
+body {
+  overflow: hidden;
+  font-family: "Montserrat", sans-serif;
+}
+.image2 {
+  margin-left: 2rem;
+}
+.active {
+  background: black;
+  color: white;
+  border-radius: 1rem;
+  padding: 5px 8px;
+}
